@@ -38,12 +38,6 @@
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-thymeleaf</artifactId>
 		</dependency>
-
-<!--		<dependency>-->
-<!--			<groupId>com.github.kevinjam</groupId>-->
-<!--			<artifactId>notification-lib</artifactId>-->
-<!--			<version>v0.0.1</version>-->
-<!--		</dependency>-->
 	</dependencies>
 
 	<build>
